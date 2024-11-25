@@ -9,8 +9,8 @@ O projeto envolve o desenvolvimento de uma plataforma de gestão de manipulados 
 
 - Reduzir o tempo entre a receção de pedidos e a expedição dos manipulados.
 - Automatizar processos de orçamento e envio de notificações.
-- Oferecer aos utentes e entidades externas ferramentas para acompanhamento em tempo real dos seus pedidos.
-- Facilitar a gestão de utilizadores, médicos, entidades externas, matérias-primas e fórmulas.
+- Oferecer aos clientes e entidades externas ferramentas para acompanhamento em tempo real dos seus pedidos.
+- Facilitar a gestão de utilizadores, entidades externas e matérias-primas.
 
 ### Requisitos
 
@@ -41,6 +41,8 @@ O projeto envolve o desenvolvimento de uma plataforma de gestão de manipulados 
         - Solicitação de pedidos/orçamentos
         - Acompanhamento do estado dos pedidos.
         - Consulta de pedidos e faturas por entidades externas.
+
+        
 ## Modelo Conceptual de Dados
 
 [Modelo Conceptual de Dados](https://drive.google.com/file/d/1v7F2n6VQhMNU74I07PObuSXfKW2uRuBh/view?usp=sharing)
